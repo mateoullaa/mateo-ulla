@@ -47,8 +47,14 @@ I build projects at the intersection of code, data, and decision-making. My goal
 ## Projects
 
 - [Portfolio](https://portfolio-mateo-ulla.onrender.com/)
-- [Trading]([https://portfolio-mateo-ulla.onrender.com/](https://github.com/mateoullaa/TRADING-ALGORITMICO))
-- [Django]([https://portfolio-mateo-ulla.onrender.com/](https://github.com/mateoullaa/Taller-Mecanico-Django-V2))
+
+- **Trading Algorithm Project**  
+  Trading strategy research and experimentation.  
+  https://github.com/mateoullaa/TRADING-ALGORITMICO
+
+- **Django Mechanical Workshop System**  
+  Web application built with Django for managing a mechanical workshop.  
+  https://github.com/mateoullaa/Taller-Mecanico-Django-V2
 
 ## What I'm Looking For
 
