@@ -36,4 +36,4 @@ My goal is to develop strong technical skills while creating projects that are u
 ## Contact
 
 - Portfolio: [portfolio-mateo-ulla.onrender.com](https://portfolio-mateo-ulla.onrender.com/)
-- GitHub: your GitHub profile link here
+- GitHub: [your GitHub profile link here](https://github.com/mateo-ulla)
